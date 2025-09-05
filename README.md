@@ -6,3 +6,6 @@ Se realiza estructura del proyecto.
 # cambio2
 Se ingresan códigos html para las carpetas "Public" y la carpeta interior "Board"
 Se ingresan códigos js para la carpeta "scripts" y la carpeta interior "Board"
+
+#  cambio3
+Se agregan imagenes a la carpeta assets
