@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Panel Administrativo - Nexus</title>
+  <link rel="stylesheet" href="Personal Administrativo.css" />
+</head>
+<body>
+  <div class="sidebar">
+    <div class="logo">
+        <img src="/Imagenes/logo nexus blanco-01.png" alt="Logo Nexus">
+    </div>
+    <nav>
+      <ul>
+        <li class="active">Panel administrativo</li>
+        <li>Configuración</li>
+        <li>Cerrar sesión</li>
+      </ul>
+    </nav>
+  </div>
+
+  <main class="main-panel">
+    <h1 class="title">GESTIÓN DE ASPIRANTES</h1>
+
+    <div class="search-filter">
+      <input type="text" placeholder="Buscar por nombre, cédula o programa..." id="searchInput" />
+      <select id="filterEstado">
+        <option value="">Todos los estados</option>
+        <option value="en-proceso">En proceso</option>
+        <option value="aprobado">Aprobado</option>
+        <option value="rechazado">Rechazado</option>
+      </select>
+    </div>
+
+    <div class="aspirante-list" id="aspiranteList">
+      <!-- Aspirantes renderizados aquí con JS -->
+    </div>
+  </main>
+
+  <script src="Personal Administrativo.js"></script>
+</body>
+</html>
+
