@@ -9,3 +9,6 @@ Se ingresan códigos js para la carpeta "scripts" y la carpeta interior "Board"
 
 #  cambio3
 Se agregan imagenes a la carpeta assets
+
+# cambio4
+Se agrega en la carpeta styles, los códigos CSS.
