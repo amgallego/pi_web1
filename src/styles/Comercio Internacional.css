@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: url("/Imagenes/Fondo\ Comercio\ Internacional.png");
+  background: url("/src/assets/Imagenes/Fondo\ Comercio\ Internacional.png");
   background-size: cover;
   color: #ffffff;
 }

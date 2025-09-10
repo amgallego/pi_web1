@@ -11,7 +11,7 @@ body, html {
 
 .fondo {
   background: radial-gradient(#0f2a43, #000);
-  background-image: url(/Imagenes/Fondo\ Página.jpeg);
+  background-image: url(/src/assets/Imagenes/Fondo\ Página.jpeg);
   background-repeat: repeat;
   background-size: cover;
   display: flex;

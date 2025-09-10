@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: url("/Imagenes/Fondo\ Arte\ Culinario.png");
+  background: url("/src/assets/Imagenes/Fondo\ Arte\ Culinario.png");
   background-size: cover;
   color: #ffffff;
 }

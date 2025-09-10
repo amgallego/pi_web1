@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: url("/Imagenes/Fondo\ Producción\ de\ Eventos.png");
+  background: url("/src/assets/Imagenes/Fondo\ Producción\ de\ Eventos.png");
   background-size: cover;
   color: #ffffff;
 }

@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: url("/Imagenes/Fondo\ Sistemas\ Informáticos.png");
+  background: url("/src/assets/Imagenes/Fondo\ Sistemas\ Informáticos.png");
   background-size: cover;
   color: #ffffff;
 }
