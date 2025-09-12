@@ -67,9 +67,9 @@ formulario.addEventListener("submit", function (e) {
     alert(`✅ Bienvenido, ${rolActual === "estudiante" ? "Estudiante" : "Personal Administrativo"}!`);
     
     if (rolActual === "estudiante") {
-      window.location.href = "nexus board/nexus board/preseleccion.html";
+      window.location.href = "/public/Board/preseleccion.html";
     } else {
-      window.location.href = "nexus board/nexus board/Personal Administrativo.html";
+      window.location.href = "/public/Board/Personal Administrativo.html";
     }
   } else {
     alert("❌ Usuario o contraseña incorrectos.");
